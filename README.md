@@ -18,7 +18,10 @@
 
 
 4.如果觉得属性太多太长，勾选“仅显示攻击者/受击者名称”就可以只显示名字方便查阅
-![](/uploads/photo/2021/2c215bd9-12de-4407-bb7d-e656acf93616.png!large)
+![图片描述](https://testerhome.com/uploads/photo/2021/2c215bd9-12de-4407-bb7d-e656acf93616.png!large)
+
+
+
 
 5.对比池其实就是一个复制粘贴的区域，用来对比分析。比如戴个装备前搜索数据后复制到这里，再戴装备后再复制就可以轻松对比属性变化。
 ![](/uploads/photo/2021/6142a742-c2ab-4c3b-b13b-86c11a03ae42.png!large)
