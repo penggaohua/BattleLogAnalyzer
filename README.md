@@ -27,7 +27,7 @@
 ![图片描述](https://testerhome.com/uploads/photo/2021/6142a742-c2ab-4c3b-b13b-86c11a03ae42.png!large)
 
 6.这个搜索框可以直接输入想要查询的内容支持正则表达式，不仅仅是战斗日志的相关内容，只要是在Editor.log中的日志都可以搜索查询。
-![](/uploads/photo/2021/d41e06c7-8257-4b3c-9037-c82b4b09d737.png!large)
+![图片描述](https://testerhome.com/uploads/photo/2021/d41e06c7-8257-4b3c-9037-c82b4b09d737.png!large)
 比如想搜索所有的Lua报错，输入关键字查询即可
 ![](/uploads/photo/2021/f2272668-bc87-427d-807d-2529f14fb1c2.png!large)
 再比如想看所有的前后端消息 ，输入send msg|receive msg
