@@ -5,9 +5,8 @@
 先在游戏项目对应的代码中插入打印，格式是这样   “ 攻击者=***    ...... 受击者=****  ....  最终伤害 ”
 
 1.如果我想看 c_tujiu （秃鹫）的属性变化，只需要输入
-![图片描述](https://testerhome.com/uploads/photo/2021/dfbca728-1edd-484a-bf23-7e42268a6f16.png!large）
+![图片描述](https://testerhome.com/uploads/photo/2021/dfbca728-1edd-484a-bf23-7e42268a6f16.png!large)
 
-![](/uploads/photo/2021/1c2c2001-e996-4c33-8a7c-b949d62b745e.png!large)
 2.如果我想看这个怪物或英雄受击的情况只需要在下面输入对应的名字
 ![](/uploads/photo/2021/8e9cd50b-50dd-4d2f-9298-196add63ef4e.png!large)、
 ![](/uploads/photo/2021/dad5414c-f4af-4837-b01a-942b7430b980.png!large)
