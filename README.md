@@ -2,13 +2,11 @@
 情景：测试过程中少不了查看日志，从中得到数据进行分析和测试，之前都是把log拷过来再搜索关键信息进行分析，不是很方便，所以用python tkinter 结合正在表达式做了个工具。
 效果：
 ![图片描述](https://testerhome.com/uploads/photo/2021/9af80c98-d712-45ba-ba2f-43a503494dc2.png!large)
-
-
 先在游戏项目对应的代码中插入打印，格式是这样   “ 攻击者=***    ...... 受击者=****  ....  最终伤害 ”
 
-
 1.如果我想看 c_tujiu （秃鹫）的属性变化，只需要输入
-![](/uploads/photo/2021/dfbca728-1edd-484a-bf23-7e42268a6f16.png!large)
+![图片描述](https://testerhome.com/uploads/photo/2021/dfbca728-1edd-484a-bf23-7e42268a6f16.png!large）
+
 ![](/uploads/photo/2021/1c2c2001-e996-4c33-8a7c-b949d62b745e.png!large)
 2.如果我想看这个怪物或英雄受击的情况只需要在下面输入对应的名字
 ![](/uploads/photo/2021/8e9cd50b-50dd-4d2f-9298-196add63ef4e.png!large)、
