@@ -31,7 +31,7 @@
 比如想搜索所有的Lua报错，输入关键字查询即可
 ![图片描述](https://testerhome.com/uploads/photo/2021/f2272668-bc87-427d-807d-2529f14fb1c2.png!large)  
 再比如想看所有的前后端消息 ，输入send msg|receive msg
-![](/uploads/photo/2021/f5ac2118-c76b-4362-b084-42df38138c99.png!large)
+![图片描述](https://testerhome.com/uploads/photo/2021/f5ac2118-c76b-4362-b084-42df38138c99.png!large)  
 
 
 有了这个工具，属性的变化分析、伤害的计算核对、技能释放序列、装备的实际效果测试都很方便。
