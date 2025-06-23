@@ -14,7 +14,8 @@
 
 
 3.如果我想看A攻击B的具体情况，只需要上面输入A的名字下面输入B的名字（比如秃鹫攻击亡灵塔）
-![](/uploads/photo/2021/f5fc8fda-1d08-4f27-a523-0e3d3ed277bb.png!large)
+![图片描述](https://testerhome.com/uploads/photo/2021/f5fc8fda-1d08-4f27-a523-0e3d3ed277bb.png!large)  
+
 
 4.如果觉得属性太多太长，勾选“仅显示攻击者/受击者名称”就可以只显示名字方便查阅
 ![](/uploads/photo/2021/2c215bd9-12de-4407-bb7d-e656acf93616.png!large)
