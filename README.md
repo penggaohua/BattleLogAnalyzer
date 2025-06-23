@@ -24,7 +24,7 @@
 
 
 5.对比池其实就是一个复制粘贴的区域，用来对比分析。比如戴个装备前搜索数据后复制到这里，再戴装备后再复制就可以轻松对比属性变化。
-![](/uploads/photo/2021/6142a742-c2ab-4c3b-b13b-86c11a03ae42.png!large)
+![图片描述](https://testerhome.com/uploads/photo/2021/6142a742-c2ab-4c3b-b13b-86c11a03ae42.png!large)
 
 6.这个搜索框可以直接输入想要查询的内容支持正则表达式，不仅仅是战斗日志的相关内容，只要是在Editor.log中的日志都可以搜索查询。
 ![](/uploads/photo/2021/d41e06c7-8257-4b3c-9037-c82b4b09d737.png!large)
