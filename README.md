@@ -8,8 +8,9 @@
 ![图片描述](https://testerhome.com/uploads/photo/2021/dfbca728-1edd-484a-bf23-7e42268a6f16.png!large)
 
 2.如果我想看这个怪物或英雄受击的情况只需要在下面输入对应的名字  
-![图片描述](https://testerhome.com/uploads/photo/2021/1c2c2001-e996-4c33-8a7c-b949d62b745e.png!large)  
-![图片描述](https://testerhome.com/uploads/photo/2021/8e9cd50b-50dd-4d2f-9298-196add63ef4e.png!large)
+![图片描述](https://testerhome.com/uploads/photo/2021/8e9cd50b-50dd-4d2f-9298-196add63ef4e.png!large)  
+![图片描述](https://testerhome.com/uploads/photo/2021/dad5414c-f4af-4837-b01a-942b7430b980.png!large)
+
 
 
 3.如果我想看A攻击B的具体情况，只需要上面输入A的名字下面输入B的名字（比如秃鹫攻击亡灵塔）
